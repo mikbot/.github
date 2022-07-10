@@ -1,7 +1,7 @@
 # mikbot
 [Mikbot](https://github.com/DRSchlaubi/mikbot) is a modular framework for building Discord bots in [Kotlin](https://kotlinlang.org) using [Kordex](https://github.com/Kord-Extensions/Kord-Extensions) and [Kord](https://github.com/kordlib/kord)
 
-This organization was made for plugins which are too nieche for the main [Mikbot repository](https://github.com/DRSchlaubi/mikbot) and other Mikbot relatet repositories
+This organization was made for plugins which are too nieche for the main [Mikbot repository](https://github.com/DRSchlaubi/mikbot) and other Mikbot related repositories
 
 # Projects
 - [hafalsch](https://github.com/mikbot/hafalsch) - Discord utitilties to monitor trains based on [marudor.de](https://marudor.de)
