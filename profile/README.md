@@ -11,3 +11,4 @@ This organization was made for plugins which are too nieche for the main [Mikbot
 - [kord-extensions](https://github.com/mikbot/kord-extensions) - Fork of [Kord-Extensions](https://github.com/Kord-Extensions/Kord-Extensions) to add new features needed for Mikbot
 - [image-color-service](https://github.com/mikbot/image-color-service) - Small and blazingly fast (🚀) microservice which provides the most dominant image color via an http endpoint.
 - [lottie-renderer-service](https://github.com/mikbot/lottie-renderer-service) - Small microservice to render Lottie animation files via an http REST API.
+- [quotes](https://github.com/mikbot/quotes) - Simple Quoting System.
